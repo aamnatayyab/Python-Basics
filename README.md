@@ -19,6 +19,6 @@
 
 ##### links
 python colab:
-https://colab.research.google.com/drive/1k7TRQ1BYLRCQFK89x2Z8Fn4L9vFxbFO2?usp=sharing [\n]
+https://colab.research.google.com/drive/1k7TRQ1BYLRCQFK89x2Z8Fn4L9vFxbFO2?usp=sharing 
 solved lab2/Lab-2 practice.ipynb:
 https://colab.research.google.com/drive/1JI7J-oUI_gHQZl1aHx14AA48tGzXyoK7?usp=sharing
