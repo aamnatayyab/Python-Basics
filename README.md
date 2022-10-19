@@ -15,6 +15,7 @@
 10. Dictionaries
 11. List Comprehensions
 12. Set and Dictionary Comprehensions
+13. Strings, Raw Strings, Doc Strings, Functions
 
 ##### links
 python colab:
